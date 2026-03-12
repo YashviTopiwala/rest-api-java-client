@@ -1,19 +1,19 @@
 # rest-api-java-client
 Java application that consumes a public REST API and parses JSON response
 
-** COMPANY: CODTECH IT SOLUTIONS
+**COMPANY:** CODTECH IT SOLUTIONS
 
-NAME: YASHVI TOPIWALA
+**NAME:** YASHVI TOPIWALA
 
-INTERN ID: CTIS4485
+**INTERN ID:** CTIS4485
 
-DOMAIN: Java Programming
+**DOMAIN:** Java Programming
 
-DURATION: 16 Weeks
+**DURATION:** 16 Weeks
 
-MENTOR: NEELA SANTOSH
+**MENTOR:** NEELA SANTOSH
 
-DESCRIPTION OF TASK
+## DESCRIPTION OF TASK
 The objective of this task was to develop a Java application that consumes a public REST API and processes the data returned by the API. REST APIs are widely used in modern applications to allow communication between different systems over the internet. By sending HTTP requests to a server, a client program can retrieve data in formats such as JSON. This task demonstrates how Java applications can interact with web services and process structured data returned by APIs.
 
 The developed application is a console-based REST API Client. The program sends an HTTP GET request to a public weather API to fetch real-time weather information. The response from the API is returned in JSON format, which is a lightweight data-interchange format widely used in web applications.
