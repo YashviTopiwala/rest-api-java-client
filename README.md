@@ -1,4 +1,4 @@
-# rest-api-java-client
+## rest-api-java-client
 Java application that consumes a public REST API and parses JSON response
 
 **COMPANY:** CODTECH IT SOLUTIONS
@@ -24,7 +24,7 @@ After retrieving the JSON response, the application processes the data and displ
 
 This task helped in understanding how REST APIs work, how Java applications communicate with web services, and how JSON data can be parsed and processed programmatically.
 
-🧠 CONCEPTS USED
+## CONCEPTS USED
 
 Operation | Class Used
 
@@ -38,7 +38,7 @@ User Output | System.out.println
 
 Error Handling | Try-Catch (Exception Handling)
 
-📂 PROJECT STRUCTURE
+## PROJECT STRUCTURE
 
 RestApiClient/
 
@@ -48,7 +48,7 @@ RestApiClient/
 
 └── README.md
 
-⚙️ FEATURES
+## FEATURES
 
 Send HTTP GET request to a public REST API
 
@@ -60,7 +60,7 @@ Display structured weather information in console
 
 Exception handling implemented
 
-💻 TECHNOLOGIES / TOOLS USED
+## TECHNOLOGIES / TOOLS USED
 
 Java (JDK 8+)
 
@@ -78,7 +78,7 @@ Command Prompt / PowerShell
 
 Git & GitHub
 
-▶️ HOW TO RUN
+## HOW TO RUN
 
 Compile
 
@@ -88,7 +88,7 @@ Run
 
 java -cp ".;json.jar" WeatherClient
 
-🧪 SAMPLE OUTPUT
+## SAMPLE OUTPUT
 
 Weather Report
 
@@ -100,7 +100,7 @@ Wind Speed: 12.3 km/h
 
 Wind Direction: 308°
 
-📘 LEARNING OUTCOME
+## LEARNING OUTCOME
 
 Understanding REST APIs and web services
 
