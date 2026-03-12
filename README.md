@@ -1,6 +1,7 @@
 # rest-api-java-client
 Java application that consumes a public REST API and parses JSON response
-COMPANY: CODTECH IT SOLUTIONS
+
+** COMPANY: CODTECH IT SOLUTIONS
 
 NAME: YASHVI TOPIWALA
 
